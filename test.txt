@@ -1,3 +1,3 @@
 My Name in Navjot I live in LA
 
-This is the Git lecture apr 13th
+This is the Git apr 13th
