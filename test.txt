@@ -1,3 +1,5 @@
 My Name in Navjot I live in LA
 
 This is the Git lecture apr 13th
+
+My Name is Palak Malik and I live in LA.
